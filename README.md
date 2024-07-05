@@ -1,2 +1,3 @@
-# first-manim-project
-My first manim project, with learning purposes.
+# Deck Manim Project
+### Deck Manim Project, about a nice math discovery I experienced.
+It's a very important project to me because it involves a crazy deck behaviour that my great-grandfather (_in memoriam_) showed to my mother. Since childhood, I struggled to understand how this "magic" worked; and, last month - unpretentiously and, ironically, in just a few seconds - I realized the math explanation behind it and solved the 15-year-old mystery it had been for me. Thus, I want to create an educational video to spread this information, as I delve deeper into Manim, the Python Library created by Grant Sanderson (3b1b).
